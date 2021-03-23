@@ -537,69 +537,305 @@ http://securepoint.io:83/live/promo/promo/387224.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/UK2", Quest +1
 http://securepoint.io:83/live/promo/promo/387225.ts
 
-LM/ MOTOR2AN
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 01: 
-http://securepoint.io:83/live/promo/promo/385674.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 02: 
-http://securepoint.io:83/live/promo/promo/385675.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 03:  
-http://securepoint.io:83/live/promo/promo/385676.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 04:  
-http://securepoint.io:83/live/promo/promo/385677.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 05:  
-http://securepoint.io:83/live/promo/promo/385678.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 06: 
-http://securepoint.io:83/live/promo/promo/385679.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 07: 
-http://securepoint.io:83/live/promo/promo/385680.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 08: 
-http://securepoint.io:83/live/promo/promo/385681.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 09: 
-http://securepoint.io:83/live/promo/promo/385682.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 10:
-http://securepoint.io:83/live/promo/promo/385683.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 11:
-http://securepoint.io:83/live/promo/promo/385684.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 12:
-http://securepoint.io:83/live/promo/promo/385685.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 13:
-http://securepoint.io:83/live/promo/promo/385686.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 14:
-http://securepoint.io:83/live/promo/promo/385687.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 15:
-http://securepoint.io:83/live/promo/promo/385688.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 16:
-http://securepoint.io:83/live/promo/promo/385689.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 17:
-http://securepoint.io:83/live/promo/promo/385690.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 18:
-http://securepoint.io:83/live/promo/promo/385691.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 19:
-http://securepoint.io:83/live/promo/promo/385692.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/BIKE", 20:
-http://securepoint.io:83/live/promo/promo/385693.ts
+LM/ IND
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",& Flix HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",& Pictures HD 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/7
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",& privé HD(eng) 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",& TV (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/325
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",& TV FHD (IND) 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1008
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",& Xplor HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/336
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",1st India (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/25
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",9X Jalwa HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1033
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",9XM (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/12
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Aaj Tak HD (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/11
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Aastha Bhajan HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/609
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",AASTHA PRIME 1 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/645
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Aastha tv HD (IN)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/296
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ABAYE_DHAHDAK (lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/933
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ABP_News_India FHD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/9
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ABZY Movies (lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/857
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Animal_Planet_Hindi_HD (4K+)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/55
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Arihant TV HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/643
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Awakening HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/891
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",B4u  Alfam HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/14
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",B4U Movies (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/39
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",B4U Movies (uk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/721
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",B4U Music HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/19
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",B4u-kadak HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/13
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",BBO HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1140
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Bhagti Sagar (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/365
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Care World (Health)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/364
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",CNBC Awaaz (News) HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/15
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",CNBC_Tv_18 (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/53
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",CNN_NEWS_18 (NEWS)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/63
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",COLOR CINEPLEX HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/572
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Colors FHD (IN) -VIP (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/218
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Colors infinity India HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1150
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",COLORS Rishtey (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/864
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Colors SD  (UK) 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/211
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",THE Q HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1133
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",DD India HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/21
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",DD KASHIR HD(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1037
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",DD Kisan
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/20
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",DD National HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/75
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",DD News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/18
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",DD Uttar Pradesh HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/17
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND", Discovery Science Hindi (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/950
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Discovery_Turbo(JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1029
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",divya (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/347
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",E24 HD(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/339
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Epic HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/130
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ET NOW (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/255
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Food Food HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Hare Krsna (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1130
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Housefull Movies HD (lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/887
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Hunagama_Kadak Hits HD (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1158
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Hungama_Dil Se HD (Miusc)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1157
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Hungama_POP_Pataka_HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1159
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ILOVE (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/78
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",India News Haryana (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/30
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",India Today (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/26
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",India TV (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/28
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",JANTA TV (news)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/31
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Joo Music HD (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1156
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",JUS_HINDI HD (Jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1161
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Lok Sabha *News*
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/216
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Maha Movies
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/246
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ManoranjanMovies
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/340
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Masti HD (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/248
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Mirror Now (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/623
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Movies Now HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/275
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",MTV_Beats HD (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/861
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",MUSIC INDIA (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/57
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",NAT GEO WILD HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1114
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",National Geographic HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1113
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",NDTV 24x7 HD (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/35
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",NDTV India (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/32
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",NDTV Profit (news)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/36
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",News18 India (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/54
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",News18 MP Chhattisgarh (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/37
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",News18 Rajestan (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/38
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",News18 UP Uttarakhand HD (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/34
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Oscar Movies HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/627
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Peace Of Mind TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/349
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Rajya Sabha TV(News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1016
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Republic Bharat (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/42
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Republic TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/43
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Rishtey Cineplex (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/414
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Romedy Now HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/272
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sadhna TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/346
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sahara Filmy(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/573
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sanskar TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/337
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Satsang TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/348
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Show Box HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony BBC Earth Hindi FHD (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/652
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony Entertainment  HD (IN) 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/471
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",SONY Entertainment HD (UK) 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/518
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",SONY Entertainment sd (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/49
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony Max 2 (India)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/574
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony Max 2 (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/965
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony Max HD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/225
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony MAX HD (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/52
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony Pal HD (Jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/557
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony Saab FHD (IN) -VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/224
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony SAB (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/50
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",SONY Waha HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1102
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony_Pix_HD 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony_SIX_HD(sl)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony_Ten_1_HD (VIP)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/59
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",sony_Ten_2_HD(vip)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/60
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sony_Ten_3 HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/61
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Sri Krishna TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/955
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Star Bharat (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/215
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Star Bharat HD (4K)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/45
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Star Bhart FHD (IND) VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/651
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Star Gold FHD (IN)  Local
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/516
+#EXTINF:-1, IND_UTSAV Gold FHD (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/698
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Star Gold SD  (uk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/297
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",STAR GOLD SELECT HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/515
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Star Plus HD (IND)-VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/634
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Star Plus HD (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/214
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Star Sports 2 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Star Sports 3 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Suraya_cinema HD(chahcha)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/453
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Ten Sports
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",TEZ News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/27
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",THE Q HD TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/946
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Time_Now (News) 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/956
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",TLC_Hindi HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/58
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",TV9 Bharatvarsh (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1067
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",UTV Bindas HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/217
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",UTV HD (Movies)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/626
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Vedic HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/644
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Willow HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Wion TV(News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/64
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Wow Cinema HD(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/860
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee Action HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/85
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee Anmol Cinema HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/84
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee Anmol HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/83
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ZEE Bollywood HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/276
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee Business (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/81
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee Cafe HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/273
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ZEE CINEMA (USA)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/80
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee Cinema FHD (VIP)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/890
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee Cinema HD (UK-TIME)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/79
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ZEE Cinema SD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/693
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ZEE Classic HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/695
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee Hindustan
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/73
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",ZEE living usa
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/87
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee MP (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/76
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/74
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/IND",Zee Rajasthan HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/72
 
-LM/USASA
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",11: 
-http://securepoint.io:83/live/promo/promo/386931.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",12: 
-http://securepoint.io:83/live/promo/promo/386932.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",13: 
-http://securepoint.io:83/live/promo/promo/386933.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",14:
-http://securepoint.io:83/live/promo/promo/386934.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",15:
-http://securepoint.io:83/live/promo/promo/386935.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",16:
-http://securepoint.io:83/live/promo/promo/386936.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",17:
-http://securepoint.io:83/live/promo/promo/386937.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",18:
-http://securepoint.io:83/live/promo/promo/386938.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",19:
-http://securepoint.io:83/live/promo/promo/386939.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/ICE HKY",20:
-http://securepoint.io:83/live/promo/promo/386940.ts
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/NOW", Sports 1 HD
 http://securepoint.io:83/live/promo/promo/386726.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/90/d6/a890d62b0ac5cc52120dbf9fb17e5f34.jpg" group-title="LM/NOW", Sports 2 HD
